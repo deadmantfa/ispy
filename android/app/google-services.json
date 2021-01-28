@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397736996964",
+    "project_id": "i-spy-a405d",
+    "storage_bucket": "i-spy-a405d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397736996964:android:91d412b47806e31325ef71",
+        "android_client_info": {
+          "package_name": "com.wd.ispy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397736996964-it9hl3ni6m0p1ofpq2ca4pmj0gbvvbb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wd.ispy",
+            "certificate_hash": "5e1931a3ba426b6c4e7dcfe4a5dfcc49ed68257e"
+          }
+        },
+        {
+          "client_id": "397736996964-5vkm5s66fi8qrvn4ceo6a1s5gume7eg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaa4FCFsuAv9T7MsP12Ywt8NnsVFTOM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397736996964-5vkm5s66fi8qrvn4ceo6a1s5gume7eg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
