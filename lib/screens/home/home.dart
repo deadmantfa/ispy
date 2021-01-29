@@ -9,7 +9,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text('I-Spy'),
         actions: <Widget>[
-          FlatButton.icon(
+          TextButton.icon(
             icon: Icon(Icons.person),
             label: Text('Log out'),
             onPressed: () async {
@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.search),
         onPressed: (){
-          
+
         },
       ),
     );
